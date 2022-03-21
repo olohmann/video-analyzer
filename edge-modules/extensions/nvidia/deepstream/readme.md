@@ -21,7 +21,7 @@ Additional open source technologies included are [nginx](https://www.nginx.com/)
 
 1. Deploy the required Video Analyzer resources
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fvideo-analyzer%2Fmain%2Fsetup%2Fstart.deploy.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fvideo-analyzer%2Fmain%2Fsetup%2Fform.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Folohmann%2Fvideo-analyzer%2Fmain%2Fsetup%2Fstart.deploy.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2Folohmann%2Fvideo-analyzer%2Fmain%2Fsetup%2Fform.json)
 
 After the script finishes you will have the following Azure resources:
 
